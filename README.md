@@ -13,19 +13,17 @@ I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, reli
 📈 Contributions
 <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevanvarma&theme=react-dark&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true" width="100%"/> </div> <br>
 🚧 Status
-╔═══════════════════════════════════════════════════════╗
-║                                                         ║
-║   ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██╗ ║
-║   ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔╝ ║
-║   ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ║
-║   ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║  ║
-║   ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██╗ ║
-║   ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═╝ ║
-║                                                         ║
-║        🔨  Great infrastructure is never finished —    ║
-║            it just keeps getting deployed.  🔨         ║
-║                                                         ║
-╚═══════════════════════════════════════════════════════╝
+```
+██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██████╗ 
+██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔════╝ 
+██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ███╗
+██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║   ██║
+██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██████╔╝
+╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+
+>> STATUS: ONLINE
+>> MODE: SHIP → LEARN → AUTOMATE → REPEAT
+>> "Great infrastructure is invisible until it isn't."
 <br> <div align="center">
 
 Show Image
