@@ -24,7 +24,7 @@ I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, reli
 >> STATUS: ONLINE
 >> MODE: SHIP → LEARN → AUTOMATE → REPEAT
 >> "Great infrastructure is invisible until it isn't."
-<br> <div align="center">
+<br> 
 
 Show Image
 
