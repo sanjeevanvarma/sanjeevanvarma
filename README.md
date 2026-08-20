@@ -1,7 +1,5 @@
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:3B82F6&height=220&section=header&text=Sanjeevan%20Varma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cloud%20%26%20DevOps%20Engineer&descAlignY=55&descSize=20" width="100%"/>
-
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Automating+infrastructure+with+AI-assisted+workflows;Building+scalable+systems%2C+one+pipeline+at+a+time" alt="Typing SVG" />
 </a>
@@ -35,7 +33,7 @@
       </a><br/>Email
     </td>
     <td align="center" width="96">
-      <a href="https://instagram.com/sanjeevan_varma_" target="_blank">
+      <a href="https://www.instagram.com/sanjeevan_varma_/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="55" height="55" alt="Instagram"/>
       </a><br/>Instagram
     </td>
