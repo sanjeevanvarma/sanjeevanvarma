@@ -1,88 +1,130 @@
-<h1 align="center">Hi 👋, I'm Sanjeevan Varma</h1>
-<h3 align="center">Aspiring Cloud & DevOps Engineer | AWS • Terraform • Kubernetes • CI/CD</h3>
+<div align="center">
 
-<p align="center">
-  <a href="https://linkedin.com/in/sanjeevan-varma-indukuri" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:sanjeevanvarma42@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://instagram.com/sanjeevan_varma_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:8E44AD&height=200&section=header&text=Sanjeevan%20Varma%20Indukuri&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8E44AD&center=true&vCenter=true&width=600&lines=Building+scalable+cloud+infrastructure...;Automating+everything+with+CI%2FCD...;Docker+%7C+Kubernetes+%7C+Terraform+%7C+AWS" alt="Typing SVG" />
+</a>
+
+</div>
+
+<br>
+
+## 💫 About Me
+
+I'm an aspiring **Cloud & DevOps Engineer** passionate about building scalable, reliable infrastructure and improving the software delivery process through automation. I focus on gaining practical, hands‑on experience by building real‑world projects and continuously exploring modern DevOps tools and practices.
+
+<br>
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://instagram.com/sanjeevan_varma_" target="_blank"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="32" height="32" alt="Instagram"/></a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/Sanjeevan-Varma-Indukuri" target="_blank"><img src="https://cdn.simpleicons.org/linkedin/0077B5" width="32" height="32" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:sanjeevanvarma42@gmail.com" target="_blank"><img src="https://cdn.simpleicons.org/gmail/D14836" width="32" height="32" alt="Email"/></a>
 </p>
 
----
+<br>
 
-### 💫 About Me
+## 💻 Tech Stack
 
-- 🎓 Computer Science graduate (B.Tech, 2023–2026) with a strong interest in **DevOps, Cloud Computing, and Automation**
-- ☁️ Hands-on experience building and deploying **AWS cloud-native applications** — EC2, VPC, S3, IAM, RDS, and cost optimization
-- 🔁 Comfortable with **Linux, Git, Jenkins, and Ansible** for CI/CD workflows
-- 📜 AWS Certified — *Solutions Architect, Fundamentals of Architecting on AWS*
-- 🌱 Currently deepening my skills in **scripting, ArgoCD, and Terraform**
-- ⚡ I enjoy building real-world infrastructure projects to learn tools the practical way, not just in theory
+### 🔧 CI/CD & Version Control
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="55" height="55" alt="Jenkins"/><br>Jenkins</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/githubactions/2088FF" width="55" height="55" alt="GitHub Actions"/><br>GH Actions</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" alt="Git"/><br>Git</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" alt="GitHub"/><br>GitHub</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachemaven/apachemaven-original.svg" width="55" height="55" alt="Maven"/><br>Maven</td>
+</tr>
+</table>
 
----
+### ☁️ Cloud & Infrastructure as Code
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55" height="55" alt="AWS"/><br>AWS</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="55" height="55" alt="Terraform"/><br>Terraform</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="55" height="55" alt="Ansible"/><br>Ansible</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/amazondynamodb/4053D6" width="55" height="55" alt="DynamoDB"/><br>DynamoDB</td>
+</tr>
+</table>
 
-### 🚀 Featured Projects
+### 📦 Containers & Orchestration
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="55" height="55" alt="Docker"/><br>Docker</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="55" height="55" alt="Kubernetes"/><br>Kubernetes</td>
+</tr>
+</table>
 
-**[DevSecOps CI/CD Pipeline with Jenkins on AWS EKS – 2048 Game](https://github.com/sanjeevanvarma)**
-Provisioned an AWS EKS cluster with Terraform and built a Jenkins pipeline running SonarQube static analysis and Trivy vulnerability scans (filesystem + image) before every deploy. Containerized with Docker, deployed via kubectl with rolling updates, and monitored the cluster and pipeline with Prometheus + Grafana.
-`Jenkins` `Terraform` `Docker` `Kubernetes (EKS)` `SonarQube` `Trivy` `Prometheus` `Grafana`
+### 📊 Monitoring & Code Quality
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="55" height="55" alt="Grafana"/><br>Grafana</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="55" height="55" alt="Prometheus"/><br>Prometheus</td>
+<td align="center" width="96"><img src="https://cdn.simpleicons.org/sonarqube/4E9BCD" width="55" height="55" alt="SonarQube"/><br>SonarQube</td>
+</tr>
+</table>
 
-**[AWS 3-Tier Architecture – Expense Tracker Application](https://github.com/sanjeevanvarma)**
-Designed and deployed a scalable 3-tier app (Web / Application / Database) on EC2 and RDS, with an external ALB for the web tier and an internal ALB for the application tier. Added Auto Scaling for high availability and used VPC + Security Groups + IAM for security, with Route 53 and CloudFront for DNS and content delivery.
-`EC2` `VPC` `RDS` `ALB` `Auto Scaling` `Route 53` `CloudFront` `IAM`
+### 🖥️ Servers & Databases
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="55" height="55" alt="Nginx"/><br>Nginx</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="55" height="55" alt="Apache"/><br>Apache</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" width="55" height="55" alt="Tomcat"/><br>Tomcat</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL"/><br>MySQL</td>
+</tr>
+</table>
 
-**[Kubernetes Personnel Register](https://github.com/sanjeevanvarma)**
-Full-stack personnel management app deployed on a Kubernetes cluster provisioned on AWS with KOPS — using Deployments, Services, NGINX Ingress, a MySQL StatefulSet, a Headless Service, and persistent storage.
-`Kubernetes` `Docker` `AWS` `Ingress`
+### 🌐 Languages & Markup
+<table>
+<tr>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5"/><br>HTML5</td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3"/><br>CSS3</td>
+</tr>
+</table>
 
----
+<br>
 
-### 🛠️ Tech Stack
+## 📊 GitHub Stats & Contributions
 
-**Cloud & Infra**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+<div align="center">
 
-**CI/CD & Version Control**
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=sanjeevanvarma&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=3fb950&text_color=c9d1d9&count_private=true" width="49%"/>
+<img src="https://streak-stats.demolab.com?user=sanjeevanvarma&theme=react&hide_border=true&background=0d1117&stroke=58a6ff&ring=3fb950&fire=3fb950&currStreakLabel=58a6ff" width="49%"/>
 
-**Monitoring & Quality**
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanjeevanvarma&theme=react-dark&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&area_color=3fb950&hide_border=true" width="100%"/>
 
-**Servers, Databases & Build Tools**
-![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevanvarma&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="55%"/>
 
-**Frontend Basics**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+</div>
 
----
+<br>
 
-### 📜 Certifications
+## 🚧 Status
 
-- AWS Solutions Architect – Fundamentals of Architecting on AWS
-- Git & Version Control – Geekster Certification
+```
+╔═══════════════════════════════════════════════════════╗
+║                                                         ║
+║   ██████╗ ██╗   ██╗██╗██╗     ██████╗ ██╗███╗   ██╗ ██╗ ║
+║   ██╔══██╗██║   ██║██║██║     ██╔══██╗██║████╗  ██║██╔╝ ║
+║   ██████╔╝██║   ██║██║██║     ██║  ██║██║██╔██╗ ██║██║  ║
+║   ██╔══██╗██║   ██║██║██║     ██║  ██║██║██║╚██╗██║██║  ║
+║   ██████╔╝╚██████╔╝██║███████╗██████╔╝██║██║ ╚████║╚██╗ ║
+║   ╚═════╝  ╚═════╝ ╚═╝╚══════╝╚═════╝ ╚═╝╚═╝  ╚═══╝ ╚═╝ ║
+║                                                         ║
+║        🔨  Great infrastructure is never finished —    ║
+║            it just keeps getting deployed.  🔨         ║
+║                                                         ║
+╚═══════════════════════════════════════════════════════╝
+```
 
----
+<br>
 
-### 📊 GitHub Stats
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=sanjeevanvarma&theme=dark&hide_border=true&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=sanjeevanvarma&theme=dark&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=sanjeevanvarma&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-</p>
+[![](https://komarev.com/ghpvc/?username=sanjeevanvarma&label=Profile+Views&color=8E44AD&style=flat)](https://github.com/sanjeevanvarma)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:4B6CB7&height=120&section=footer" width="100%"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeevanvarma&icon=github&color=blueviolet" alt="Profile views" />
-</p>
-
+</div>
