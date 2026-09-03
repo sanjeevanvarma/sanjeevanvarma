@@ -1,4 +1,9 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:8E44AD&height=180&section=header&text=Sanjeevan%20Varma%20Indukuri&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=CS%20Student%20%E2%80%A2%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/> </div>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=4B6CB7&height=180&section=header&text=Sanjeevan%20Varma%20Indukuri&fontSize=40&fontColor=ffffff&desc=CS%20Student%20%7C%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descSize=18&descColor=ffffff" width="100%">
+
+</div>
+
 <br>
 
 ## 💫 About Me
