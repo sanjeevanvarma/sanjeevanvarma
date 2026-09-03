@@ -1,10 +1,8 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:8E44AD&height=180&section=header&text=Sanjeevan%20Varma%20Indukuri&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=CS%20Student%20%E2%80%A2%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/>
-</div>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6CB7,100:8E44AD&height=180&section=header&text=Sanjeevan%20Varma%20Indukuri&fontSize=40&fontColor=ffffff&fontAlignY=42&desc=CS%20Student%20%E2%80%A2%20Aspiring%20Cloud%20%26%20DevOps%20Engineer&descAlignY=62&descSize=18&descColor=ffffff" width="100%"/> </div>
 
 <br>
 
-💫 About Me
+## 💫 About Me
 
 I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, reliable infrastructure and improving the software delivery process through automation. I focus on gaining practical, hands‑on experience by building real‑world projects and continuously exploring modern DevOps tools and practices.
 
@@ -54,4 +52,4 @@ I'm an aspiring Cloud & DevOps Engineer passionate about building scalable, reli
 
 >> STATUS: BUILDING
 >> MODE: SHIP → LEARN → AUTOMATE → REPEAT
->> "Great infrastructure is invisible until it isn't." <br> Show Image <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:4B6CB7&height=120&section=footer" width="100%"/> </div>
+>> "Great infrastructure is invisible until it isn't." <br> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E44AD,100:4B6CB7&height=120&section=footer" width="100%"/> </div>
